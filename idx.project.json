@@ -1,0 +1,6 @@
+{
+  "name": "google-voice-orders",
+  "type": "webapp",
+  "language": "python",
+  "entry": "backend/main.py"
+}
