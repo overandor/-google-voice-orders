@@ -1,0 +1,13 @@
+This is a test file for the Voyager Intelligence Engine.
+
+It contains some basic text to be analyzed.
+The system should be able to process this file and generate a report.
+
+This file also contains a potential PII: john.doe@email.com.
+And a potential IP address: 192.168.1.1.
+
+Let's see how the VIE handles it.
+This is a quote: "The only way to do great work is to love what you do." - Steve Jobs
+This is another quote: "Innovation distinguishes between a leader and a follower."
+This is a third quote from an unknown source. "The future is already here – it's just not evenly distributed."
+This is a final quote. "Strive not to be a success, but rather to be of value." - Albert Einstein
